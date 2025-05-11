@@ -1,0 +1,6 @@
+.env
+*.ckpt
+*.bin
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/
